@@ -18,7 +18,8 @@ logo、appName、theme……
 我们如果是copy一个脚手架，然后每个项目部门都从头开发开发这些基础功能，就非常耗时耗力
 
 ### 方案
-所以，可以采取一种可插拔的方式实现项目模块的隔离开发，这就是umi-plugin-project 和runtimeConfig.plugin.js所做的事
+所以，可以采取一种可插拔的方式实现项目模块的隔离开发，这就是umi-plugin-project 和runtimeConfig.plugin.js所做的事 
+
 ![可插拔式项目模块](./assets/1.png)
 
 ### 实现
