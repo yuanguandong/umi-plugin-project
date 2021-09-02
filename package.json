@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "解决的是使用umi框架时分项目模块开发的需求",
   "main": "src/index.js",
   "scripts": {
