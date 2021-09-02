@@ -28,8 +28,10 @@ umi-plugin-project 主要逻辑就是抓取了pages下的页面模块然后重�
 这些config的使用逻辑要预埋在主框架当中，如若是项目不需要的功能，可以通过config参数控制此功能不打入bundle
 
 ### 强制约定
-项目模块：pages下的第一层目录，如 src/pages/sysmgmt
-项目模块编译时配置：页面模块目录下的config.json, 如src/pages/sysmgmt/config.json
+项目模块：pages下的第一层目录，如 src/pages/sysmgmt 
+
+项目模块编译时配置：页面模块目录下的config.json, 如src/pages/sysmgmt/config.json 
+
 必有参数：
 
 | 参数名      | 描述                                           | 类型     | 必传 |
